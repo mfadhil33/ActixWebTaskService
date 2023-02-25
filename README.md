@@ -8,6 +8,9 @@
 Create Project With RUST
 ```
 cargo init --bin ActixWebTaskService
+```
+```
+
 $ git clone https://github.com/mfadhil33/ActixWebTaskService.git
 $ cd ActixWebTaskService
 $ rustc main.rs
