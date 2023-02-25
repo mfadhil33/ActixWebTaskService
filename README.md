@@ -1,6 +1,6 @@
 # RestApi with using ts
 
-*** Rest Api-Actix Web with language  RUST, (Really Fast Web service)***
+*** Rest Api-Actix Web with language  RUST, Really Fast Web service)***
 
 ## Install
 **Install on Linux/windows ✅**
