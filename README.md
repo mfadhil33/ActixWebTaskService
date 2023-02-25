@@ -1,4 +1,4 @@
-# RestApi with using ts
+# RestApi with using RUST
 
 *** Rest Api-Actix Web with language  RUST, Really Fast Web service)***
 
